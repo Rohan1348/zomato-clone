@@ -1,0 +1,11 @@
+.footer{
+    height: 120px;
+    color: #0d0907;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    line-height: 10;
+}
+
+.footer-icon{
+    padding: 0px 4px 0px;
+}
